@@ -12,4 +12,4 @@ We also have `make clean` if you want that.
 
 # Using
 
-The example code `
+See the examples in the example-*/ directories
